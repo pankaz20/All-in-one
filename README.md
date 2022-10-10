@@ -26,9 +26,9 @@
 
 # SNAPSHOTS OF WORKING OF APP 
 
-![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/1.JPG?raw=true)
-![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/2.JPG?raw=true)
-![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/3.JPG?raw=true)
+- ![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/1.JPG?raw=true)
+- ![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/2.JPG?raw=true)
+- ![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/3.JPG?raw=true)
 ![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/4.jpeg?raw=true)
 ![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/5.jpeg?raw=true)
 ![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/6.jpeg?raw=true)
