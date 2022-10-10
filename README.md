@@ -26,16 +26,11 @@ BUILT THE LAYOUT OF APPLICATION BY XML.
 
 # SNAPSHOTS OF WORKING OF APP 
 
-![alt text](https://github.com/kpain907/Allinone/blob/main/Screensort/snap1.JPG?raw=true)
-![alt text](https://github.com/kpain907/Allinone/blob/main/Screensort/snap2.JPG?raw=true)
-![alt text](https://github.com/kpain907/Allinone/main/Screensort/snap3.JPG?raw=true)
-![alt text](https://github.com/kpain907/Allinone/blob/main/Screensort/snap4.JPG?raw=true)
-![alt text](https://github.com/kpain907/Allinone/blob/main/Screensort/snap5.JPG?raw=true)
-![alt text](https://github.com/kpain907/Allinone/blob/main/Screensort/snap6.JPG?raw=true)
-![alt text](https://github.com/kpain907/Allinone/blob/main/Screensort/snap8.JPG?raw=true)
+![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/1.jpeg?raw=true)
+![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/2.jpeg?raw=true)
+![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/3.jpeg?raw=true)
+![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/4.jpeg?raw=true)
+![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/5.jpeg?raw=true)
+![alt text](https://github.com/pankaz20/All-in-one/blob/main/Screenshot/6.jpeg?raw=true)
 
 # ALL IN ONE APPLICATION
-# Allinone
-# Allinone
-# Allinone
-# Allinone
